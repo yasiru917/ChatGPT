@@ -1,0 +1,56 @@
+body{
+background-image: linear-gradient(to top, #ffffff 0%, #dfe9f3 100%);
+}
+
+svg{
+    height: 45px;
+}
+.navbar{
+    font-family: popins;
+    font-size: 25px ;
+}
+
+.hero-section{
+    height: 90vh;
+}
+.Business-type{
+    font-size: 20px;
+    font-weight: bold;
+}
+h1{
+    font-size: 70px;
+    margin-top: 30px;
+    width: 500px;
+}
+.aboutus{  
+    height: 110vh;
+}
+.Services{
+    height: 90vh;
+}
+.Testimonials{
+    height: 90vh;
+}
+.why-choose-us{
+    height: 40vh;
+}
+.font-size-50{
+    font-size: 50px;
+}
+.font-size-30{
+    font-size: 30px;
+}
+p > .font-size-30{
+    width: 100px;
+}
+.border-radius50 {
+    border-radius: 50%;
+}
+.Contact-form{
+    height: 90vh;
+    margin-left: 80px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgb(240, 248, 255);
+}
+
